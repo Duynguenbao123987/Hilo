@@ -1,4 +1,4 @@
-local ThunderScreen = Instance.new("ScreenGui")
+iilocal ThunderScreen = Instance.new("ScreenGui")
 local ThunderToggleUI = Instance.new("TextButton")
 local ThunderCornerUI = Instance.new("UICorner")
 local ThunderImageUI = Instance.new("ImageLabel")
